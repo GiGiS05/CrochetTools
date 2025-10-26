@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Doll Ghoom'; /* Name of the font */
+  src: url('.../doll-ghoom-font/doll-ghoom-font.ttf') format('ttf'), /* Modern browsers */
+       url('.../doll-ghoom-font/doll-ghoom-font.otf') format('otf');   /* Fallback */
+}
